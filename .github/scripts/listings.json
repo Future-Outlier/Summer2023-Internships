@@ -181944,7 +181944,7 @@
         "company_name": "CVS Health",
         "id": "1b0cef96-ad69-4dce-8c1c-8f7ef83665b5",
         "title": "Innotech Summer Undergraduate Internship 2025 - Aetna Tech - Aetna Medicaid Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -188193,7 +188193,7 @@
         "company_name": "Accompany Health",
         "id": "298560fa-c15c-4e4e-8b91-be0d96957ba2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [],
         "date_updated": 1745639277,
         "date_posted": 1745639277,
