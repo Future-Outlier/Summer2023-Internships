@@ -169639,7 +169639,7 @@
         "company_name": "GE Aerospace",
         "id": "13e7baef-caae-4048-b9d1-98940c64a36f",
         "title": "Engineering Engines Intern - Computer or Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -169659,7 +169659,7 @@
         "company_name": "GE Aerospace",
         "id": "821d6aa3-adc3-4c89-8355-f2820dacd8fa",
         "title": "Engineering Engines Co-op - Computer or Software Engineering - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -169679,7 +169679,7 @@
         "company_name": "GE Aerospace",
         "id": "428a9796-35b6-495d-89bf-101a1f45ef19",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -169699,7 +169699,7 @@
         "company_name": "GE Aerospace",
         "id": "23a6a187-d8d4-4014-97bd-e1c3ba5a5182",
         "title": "Digital Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -176453,7 +176453,7 @@
         "company_name": "GE Aerospace",
         "id": "8bf72298-c5e4-44f3-860f-bc30c99704b9",
         "title": "Digital Technology Intern - Returning Students",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -201741,5 +201741,25 @@
         "date_posted": 1751933358,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "McKinney",
+        "id": "c1594392-5219-4bdb-9f4c-6bbfe93e804e",
+        "title": "Intern \u2013 Data",
+        "active": true,
+        "terms": [
+            "Summer 2025"
+        ],
+        "date_updated": 1751940395,
+        "date_posted": 1751940395,
+        "url": "https://job-boards.greenhouse.io/jobsmckinneycom/jobs/7009226",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/McKinney",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
