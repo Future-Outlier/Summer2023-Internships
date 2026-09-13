@@ -246632,7 +246632,7 @@
         "company_name": "Meta",
         "id": "7d40282a-e5d1-4104-ba34-426064c6790a",
         "title": "Research Scientist Intern - Photorealistic Telepresence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -369890,7 +369890,7 @@
         "company_name": "Bank of Montreal",
         "id": "d54fd8c7-96c2-4371-bb40-83ca571f8449",
         "title": "Junior Software Developer Co-op Intern - Winter 2027 - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
