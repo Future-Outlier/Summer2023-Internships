@@ -307452,7 +307452,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378499,7 +378499,7 @@
         "company_name": "Intel",
         "id": "02b45672-64be-4bea-b971-2efafc958466",
         "title": "AI and Compiler Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
