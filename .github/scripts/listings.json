@@ -1,77 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Prudential Financial",
-        "id": "7c05e7c8-7442-4664-b51c-198bd2a96225",
-        "title": "PGIM: 2027 Public Fixed Income \u2013 Summer Investment Analyst Program - Credit Research Group",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1768548889,
-        "date_posted": 1768548889,
-        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Fixed-Income--Summer-Investment-Analyst-Program--Credit-Research-Group-_R-123005-1",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Prudential-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Prudential Financial",
-        "id": "81cc3587-f271-40e6-908a-ba39add02156",
-        "title": "Public Fixed Income Investment Analyst Intern - Portfolio Analysis Group",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1768548897,
-        "date_posted": 1768548897,
-        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/PGIM--2027-Public-Fixed-Income--Summer-Investment-Analyst-Program--Portfolio-Analysis-Group-_R-123004-1",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Prudential-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prudential Financial",
-        "id": "afca5f9b-973f-4f8a-b29f-9193c572ea3d",
-        "title": "Prudential: 2026 Global Technology & Operations \u2013 Internship Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768548893,
-        "date_posted": 1768548893,
-        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Global-Technology---Operations--Internship-Program_R-122979",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Prudential-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Thales",
         "id": "2f708367-3ef7-4287-8135-c4cd0d36cd3b",
@@ -360870,7 +360799,7 @@
         "company_name": "TD Bank",
         "id": "c86d0cd8-688e-4d74-beff-876230e13041",
         "title": "Software Engineer Intern - Software Engineering Rotational Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
